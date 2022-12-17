@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio01",
+  "version": "1.0.0",
+  "description": "Primer ejercicio entregable de openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flitzfa/openbootcamp.git"
+  },
+  "author": "flitzfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flitzfa/openbootcamp/issues"
+  },
+  "homepage": "https://github.com/flitzfa/openbootcamp#readme"
+}
